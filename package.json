@@ -2,7 +2,13 @@
     "name": "adad-alarm",
     "description": "A Node-RED Project",
     "version": "0.0.1",
-    "dependencies": {},
+    "dependencies": {
+        "node-red-contrib-stackhero-mysql": "1.0.5",
+        "node-red-contrib-web-worldmap": "2.37.2",
+        "node-red-dashboard": "3.4.0",
+        "node-red-node-ui-table": "0.4.3",
+        "nodered-contrib-sms77": "3.2.2"
+    },
     "node-red": {
         "settings": {
             "flowFile": "flows.json",
