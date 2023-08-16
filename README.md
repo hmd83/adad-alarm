@@ -1,5 +1,5 @@
 go to->> Wiki for Setup and docmations
-test https://admin.adad-alarm.com/ui
+Dashboard Demo with live data https://admin.adad-alarm.com/ui
 Abschlussprojekt
 Autor: Hussein Daj
 Klasse: FSTINF21
